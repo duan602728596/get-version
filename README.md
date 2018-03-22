@@ -3,6 +3,9 @@
 查看package.json依赖是否是最新的。   
 慎用查找全部，因为会有超时和网速的影响。
 
+## 软件下载
+[https://github.com/duan602728596/get-version/releases/tag/0.0.1](https://github.com/duan602728596/get-version/releases/tag/0.0.1)
+
 ## 技术栈
 pug + sass + ECMA8 + react + antd + webpack + nwjs。
 

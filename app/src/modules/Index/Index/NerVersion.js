@@ -21,6 +21,7 @@ class NewVersion extends Component{
     }
   }
   // 搜索
+  // TODO: 搜索的另一个接口为https://www.npmjs.com/search/suggestions?q=
   onSearchVersion(event: Event): void{
     const _this: this = this;
     $.ajax({
